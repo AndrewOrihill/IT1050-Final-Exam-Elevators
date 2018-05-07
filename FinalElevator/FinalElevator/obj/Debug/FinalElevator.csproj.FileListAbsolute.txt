@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\FinalElevator\FinalElevator\obj\Debug\FinalElevator.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\source\repos\FinalElevator\FinalElevator\obj\Debug\FinalElevator.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\FinalElevator\FinalElevator\bin\Debug\FinalElevator.exe.config
+C:\Users\Andrew\source\repos\FinalElevator\FinalElevator\bin\Debug\FinalElevator.exe
+C:\Users\Andrew\source\repos\FinalElevator\FinalElevator\bin\Debug\FinalElevator.pdb
+C:\Users\Andrew\source\repos\FinalElevator\FinalElevator\obj\Debug\FinalElevator.exe
+C:\Users\Andrew\source\repos\FinalElevator\FinalElevator\obj\Debug\FinalElevator.pdb
